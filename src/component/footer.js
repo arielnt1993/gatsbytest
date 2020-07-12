@@ -6,7 +6,7 @@ const Footer =()=>{
     return (
         <footer>
             <p>
-                created by Ariel, Copyright {date.getFullYear()}
+                created by Ariel, © {date.getFullYear()}
             </p>
         </footer>
     )
